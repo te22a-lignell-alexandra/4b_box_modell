@@ -17,13 +17,15 @@ h1{
     justify-content: center;
     margin-left: 40%;
     margin-right: 40%;
-    margin-top: 2%;
     background-color: rgb(100,50,200);
+    color: white;
 }
 table{
     margin-top: 2%;
     border: 5px solid black;
     background-color: rgb(100, 205, 250);
+    margin-left: 10%;
+    margin-right: 10%;
 }
 td{
     border: 1px solid black;
@@ -38,4 +40,25 @@ td{
 }
 .pang{
     border: 5px;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+
+.red{
+    color: red;
+}
+.Julafton{
+    background-color: aliceblue;
+    color: red;
+}
+.nyår{
+    background-color: grey;
 }
